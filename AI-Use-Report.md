@@ -2,17 +2,17 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name:Angelina Del Vicario
+- Week:06
+- Lab:06
+- Date:9/30/26
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [* ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
@@ -44,10 +44,10 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response: i learned that theres a difference between if, else and elif and how to use it 
 
 ## Summary
 
 Provide any additional information about your use of AI for this lab.
 
-Response:
+Response: no ai tool was used
